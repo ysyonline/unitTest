@@ -34,7 +34,6 @@
         var p1 = new Person('sss1', 32);
         console.log('sayName' in p );
         console.log('sayName' in p1 );
-
     })('override prototype obj');
     //=================原型链=============
     (function(){
